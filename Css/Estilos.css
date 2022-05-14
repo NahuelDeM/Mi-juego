@@ -1,0 +1,71 @@
+/* RESET */
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+#hijo1 {
+    position: absolute;
+    width: 100%;
+    height: 106px;
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(180deg, #BC94E4 0%, rgba(0, 0, 0, 0.59) 100%);
+    border: 3px solid #000000;
+    box-sizing: border-box;
+}
+
+#hijo2 {
+    position: absolute;
+    width: 222px;
+    height: 84.7%;
+    left: 0px;
+    top: 106px;
+    background: linear-gradient(180deg, #D5B8F2 0%, #000000 100%);
+    border: 3px solid #000000;
+    box-sizing: border-box;
+}
+
+#hijo3 {
+    position: absolute;
+    width: 83.76%;
+    height: 84.7%;
+    left: 222px;
+    top: 106px;
+    background: linear-gradient(180deg, #D5B8F2 0%, #000000 100%);
+    border: 3px solid #000000;
+    box-sizing: border-box;
+}
+
+#zona {
+    position: absolute;
+    width: 170px;
+    height: 220px;
+    margin-left: 23px;
+    margin-top: 10px;
+    border-radius: 17px;
+    background-image: url(/Img/Templo\ Sakura\ \(1\).png);
+}
+
+#pj {
+    position: relative;
+    width: 62px;
+    height: 100px;
+    left: 58px;
+    top: 105px;
+    background: url(/Img/1.gif);
+    background-repeat: no-repeat;   
+}
+
+#oro {
+    position: absolute;
+    width: 512px;
+    height: 512px;
+    max-width: 52px;
+    max-height: 52px;
+    left: 34px;
+    top: 124px;
+    background: url(/Img/oro.png);
+    background-repeat: no-repeat;   
+}
