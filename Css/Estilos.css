@@ -5,7 +5,7 @@
     
 }
 
-#hijo1 {
+#navbar {
     position: absolute;
     width: 100%;
     height: 106px;
@@ -16,9 +16,9 @@
     box-sizing: border-box;
 }
 
-#hijo2 {
+#peleador {
     position: absolute;
-    width: 222px;
+    width: 190px;
     height: 84.7%;
     left: 0px;
     top: 106px;
@@ -27,11 +27,11 @@
     box-sizing: border-box;
 }
 
-#hijo3 {
+#inicio {
     position: absolute;
-    width: 83.76%;
+    width: 65%;
     height: 84.7%;
-    left: 222px;
+    left: 190px;
     top: 106px;
     background: linear-gradient(180deg, #D5B8F2 0%, #000000 100%);
     border: 3px solid #000000;
@@ -40,12 +40,9 @@
 
 #zona {
     position: absolute;
-    width: 170px;
+    width: 100%;
     height: 220px;
-    margin-left: 23px;
-    margin-top: 10px;
     border-radius: 17px;
-    background-image: url(/Img/Templo\ Sakura\ \(1\).png);
 }
 
 #pj {
@@ -68,4 +65,8 @@
     top: 124px;
     background: url(/Img/oro.png);
     background-repeat: no-repeat;   
+}
+#imgzona {
+    max-width:95%;
+    max-height: 70%;
 }
